@@ -15,6 +15,7 @@
 		133ABD5E22467D0A00F48769 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 133ABD5C22467D0A00F48769 /* LaunchScreen.storyboard */; };
 		133ABD6922467D0A00F48769 /* Virtual_ClosetTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 133ABD6822467D0A00F48769 /* Virtual_ClosetTests.swift */; };
 		133ABD7422467E3500F48769 /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = 133ABD7322467E3500F48769 /* Service.swift */; };
+		133ABD7622469A6500F48769 /* LoginController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 133ABD7522469A6500F48769 /* LoginController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		133ABD6822467D0A00F48769 /* Virtual_ClosetTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Virtual_ClosetTests.swift; sourceTree = "<group>"; };
 		133ABD6A22467D0A00F48769 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		133ABD7322467E3500F48769 /* Service.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Service.swift; sourceTree = "<group>"; };
+		133ABD7522469A6500F48769 /* LoginController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 			children = (
 				133ABD5022467D0800F48769 /* AppDelegate.swift */,
 				133ABD5222467D0800F48769 /* ViewController.swift */,
+				133ABD7522469A6500F48769 /* LoginController.swift */,
 				133ABD7322467E3500F48769 /* Service.swift */,
 				133ABD5422467D0800F48769 /* Main.storyboard */,
 				133ABD5A22467D0A00F48769 /* Assets.xcassets */,
@@ -207,6 +210,7 @@
 				133ABD7422467E3500F48769 /* Service.swift in Sources */,
 				133ABD5122467D0800F48769 /* AppDelegate.swift in Sources */,
 				133ABD5922467D0800F48769 /* Virtual_Closet.xcdatamodeld in Sources */,
+				133ABD7622469A6500F48769 /* LoginController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
